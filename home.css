@@ -20,8 +20,6 @@ body {
   background: #f8f9f9;
 }
 
-
-
 h1 {
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
@@ -85,8 +83,6 @@ a {
 .hidden {
   display: none;
 }
-
-
 
 .header-container {
   background: #f8f9f9 url(./img/scatt-fields.svg);
@@ -288,8 +284,6 @@ a {
   }
 }
 
-
-
 main {
   background: var(--primary-color) url(./img/plk-dots.svg);
   color: var(--secondary-color);
@@ -415,8 +409,6 @@ main {
     margin-bottom: 5em;
   }
 }
-
-
 
 footer {
   display: none;
