@@ -16,7 +16,7 @@ layout: default
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://github.com/ameerhamzakhalid/capstone-module)
+[Live Demo Link](https://ameerhamzakhalid.github.io/capstone-module/)
 
 ## Getting Started
 
