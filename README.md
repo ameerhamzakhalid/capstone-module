@@ -9,6 +9,10 @@ layout: default
 
 ### Check out in this [link](https://github.com/ameerhamzakhalid/capstone-module)
 
+## Acknowledgements
+
+Credit to Cindy Shin, the author of the original design, `Creative Commons License`
+
 ## Built With
 
 -HTML
