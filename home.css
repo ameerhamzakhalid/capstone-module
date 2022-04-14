@@ -27,7 +27,7 @@ h1 {
   color: var(--accent-color);
   line-height: 1em;
   letter-spacing: 2px;
-  background: url(img/portfol.svg);
+  background: url(./img/portfol.svg);
   background-color: lightpink;
   background-blend-mode: multiply;
   -webkit-background-clip: text;
@@ -498,6 +498,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    margin-bottom: 3em;
   }
 
   .speaker-card {
