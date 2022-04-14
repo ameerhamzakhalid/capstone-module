@@ -7,11 +7,10 @@ layout: default
 
 > Professional Portfolio using HTML, CSS
 
-### Check out in this [link](https://github.com/ameerhamzakhalid/capstone-module)
 
 ## Acknowledgements
 
-Credit to Cindy Shin, the author of the original design, `Creative Commons License`
+In this project, I want to give appropriation to [Cindy Shin](https://www.behance.net/adagio07) the [author of the original design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015), as required by the [Creative Commons License](https://creativecommons.org/licenses/).
 
 ## Built With
 
